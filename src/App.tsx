@@ -28,7 +28,7 @@ export class App extends React.Component<{}, State> {
 
     return (
       <div className="App">
-        <p className="App__message">{title}</p>
+        <p className="App__message ">{title}</p>
       </div>
     );
   }
